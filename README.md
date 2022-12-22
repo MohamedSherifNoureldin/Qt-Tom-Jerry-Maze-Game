@@ -9,6 +9,19 @@ A C++ Qt game based on the classic Tom & Jerry cartoon but with a theme of playi
 - Tom automatically tries to catch jerry using A* Graph Algorithm
 - Object Oriented Programming
 
+## Screenshots
+![Welcome Screen](Screenshots/WelcomeScreen.png)
+<p align="center">Welcome Screen</p>
+
+![Game Screen](Screenshots/GameScreen.png)
+<p align="center">Game Screen</p>
+
+![Game Over Screen](Screenshots/LostScreen.png)
+<p align="center">Game Over Screen</p>
+
+![Leaderboard Screen](Screenshots/LeaderBoard.png)
+<p align="center">Leaderboard Screen</p>
+
 ## Code Files Explained
 - main: The main file that runs the game
 - welcomescreen: The welcome screen that allows the user to choose the username, number of Tom's and dificulty
